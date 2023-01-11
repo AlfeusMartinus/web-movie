@@ -1,0 +1,48 @@
+.myBG {
+    height: 200vh;
+    background: url("../assets/images/bg/5.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.intro {
+    height : 500px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size:41px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 3px;
+}
+
+.trending {
+    height: 2auto;
+    background: url("../assets/images/bg/6.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.horror {
+    height: 2auto;
+    background: url("../assets/images/bg/6.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.movieImage {
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.movieWrapper {
+
+}
+
+.images {
+    height: 500px;
+}
