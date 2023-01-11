@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-movie/static/css/main.a112375e.css",
+    "main.js": "/web-movie/static/js/main.b19edbd8.js",
+    "static/js/787.1e776e26.chunk.js": "/web-movie/static/js/787.1e776e26.chunk.js",
+    "static/media/noOneGetsOutAlive.png": "/web-movie/static/media/noOneGetsOutAlive.4419987b00e6da34bd32.png",
+    "static/media/archive.png": "/web-movie/static/media/archive.b344b109dd26ffd5d1c6.png",
+    "static/media/5.png": "/web-movie/static/media/5.4f59cf10ce6de6830e29.png",
+    "static/media/anne.png": "/web-movie/static/media/anne.7148919eed14d2f3a159.png",
+    "static/media/allOfUsAreDead.png": "/web-movie/static/media/allOfUsAreDead.6639cfdce41ca043e437.png",
+    "static/media/tinder.png": "/web-movie/static/media/tinder.3246d6145396eb4ec1d6.png",
+    "static/media/thereIsSomeoneInsideYourHouse.png": "/web-movie/static/media/thereIsSomeoneInsideYourHouse.3038f5cd1854de1014a0.png",
+    "static/media/theSilentSea.png": "/web-movie/static/media/theSilentSea.5c395bcc79a660ff2c1b.png",
+    "static/media/murdervile.png": "/web-movie/static/media/murdervile.9f90b665fe9ac9af969d.png",
+    "static/media/6.png": "/web-movie/static/media/6.31a6b62953d3c792a0a5.png",
+    "index.html": "/web-movie/index.html",
+    "main.a112375e.css.map": "/web-movie/static/css/main.a112375e.css.map",
+    "main.b19edbd8.js.map": "/web-movie/static/js/main.b19edbd8.js.map",
+    "787.1e776e26.chunk.js.map": "/web-movie/static/js/787.1e776e26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a112375e.css",
+    "static/js/main.b19edbd8.js"
+  ]
+}
